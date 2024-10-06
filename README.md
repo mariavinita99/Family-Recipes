@@ -1,6 +1,6 @@
-# Family secret recipes
+# AIR's Family secret recipes
 
-Set recipes as given by my grandma.
+Set of recipes as given by my grandma.
 
 * piza (TODO)
 * sauses (TODO)
