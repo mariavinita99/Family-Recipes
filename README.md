@@ -6,3 +6,4 @@ Set of recipes as given by my grandma.
 * sauces (TODO)
 * spread (TODO)
 * [Pasta](./pasta.md)
+* [Pancake](./pancake.md)
